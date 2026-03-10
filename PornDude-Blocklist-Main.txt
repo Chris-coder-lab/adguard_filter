@@ -95,7 +95,7 @@
 ||freetour.caughtfapping.com^$category=adult
 ||fsiblog4.com.co^$category=adult
 ||furaffinity.net^$category=adult
-||gamesexpose.com
+||gamesexpose.com^$category=adult
 ||gigajuicy.com^$category=adult
 ||gkdoll.com^$category=adult
 ||go3fun.co^$category=adult
